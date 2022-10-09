@@ -807,7 +807,7 @@
     (property "Value" "Conn_ARM_JTAG_SWD_10" (id 1) (at 41.91 160.0199 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" (id 2) (at 53.34 158.75 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" (id 2) (at 53.34 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf" (id 3) (at 44.45 190.5 90)

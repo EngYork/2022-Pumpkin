@@ -1,21 +1,21 @@
-Source:,/home/david/Desktop/Pumpkin-main/Shocksoc-Pumpkin.kicad_sch,,,,
-Date:,Wed 21 Sep 2022 12:20:54 BST,,,,
-Tool:,Eeschema (6.0.7),,,,
-Generator:,/usr/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py,,,,
-Component Count:,44,,,,
-Ref,Qnty,Value,Cmp name,Footprint,Description
-"C1, C3, C4, C7, ",4,10n,C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Unpolarized capacitor
-"C2, C8, ",2,1u,C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Unpolarized capacitor
-"C5, ",1,4u7,C_Polarized,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Polarized capacitor
-"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, ",20,WS2813B,WS2813B_8,LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm,RGB LED with integrated controller
-"J1, ",1,USB_B_Micro,USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105133-0001,USB Micro Type B connector
-"J2, ",1,Conn_01x03_Male,Conn_01x03_Male,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-"J3, ",1,Conn_01x02_Male,Conn_01x02_Male,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-"J4, ",1,Conn_ARM_JTAG_SWD_10,Conn_ARM_JTAG_SWD_10,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,"Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface"
-"JP1, JP2, ",2,SolderJumper_2_Open,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,"Solder Jumper, 2-pole, open"
-"Q1, ",1,BSN20,BSN20,Package_TO_SOT_SMD:SOT-23,"0.5A Id, 50V Vds, N-Channel MOSFET, SOT-23"
-"R1, R2, R3, ",3,10k,R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
-"SW1, SW2, SW3, SW4, ",4,SW_Push,SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,"Push button switch, generic, two pins"
-"U1, ",1,AP2202K-3.3,AP2204K-ADJ,Package_TO_SOT_SMD:SOT-23-5,"150mA low dropout adjustable linear regulator, wide input voltage range, SOT-23-5 package"
-"U2, ",1,STM32L011F4Px,STM32L011F4Px,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,"ARM Cortex-M0+ MCU, 16KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 16 GPIO, TSSOP-20"
-"U3, ",1,FT231XQ,FT231XQ,Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,"Full Speed USB to Full Handshake UART, QFN-20"
+"Source:","/home/david/Desktop/Pumpkin/Shocksoc-Pumpkin.kicad_sch"
+"Date:","Sun 09 Oct 2022 21:15:21 BST"
+"Tool:","Eeschema (6.0.7)"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","44"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"C1, C3, C4, C7, ","4","10n","C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor",""
+"C2, C8, ","2","1u","C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor",""
+"C5, ","1","4u7","C_Polarized","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Polarized capacitor",""
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, ","20","WS2813B","WS2813B_8","Library:LED_WS2813_hand","RGB LED with integrated controller",""
+"J1, ","1","USB_B_Micro","USB_B_Micro","Connector_USB:USB_Micro-B_Molex-105133-0001","USB Micro Type B connector",""
+"J2, ","1","Conn_01x03_Male","Conn_01x03_Male","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"J3, ","1","Conn_01x02_Male","Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"J4, ","1","Conn_ARM_JTAG_SWD_10","Conn_ARM_JTAG_SWD_10","Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD","Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface",""
+"JP1, JP2, ","2","SolderJumper_2_Open","SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm","Solder Jumper, 2-pole, open",""
+"Q1, ","1","BSN20","BSN20","Package_TO_SOT_SMD:SOT-23","0.5A Id, 50V Vds, N-Channel MOSFET, SOT-23",""
+"R1, R2, R3, ","3","10k","R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","Resistor",""
+"SW1, SW2, SW3, SW4, ","4","SW_Push","SW_Push","Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm","Push button switch, generic, two pins",""
+"U1, ","1","AP2202K-3.3","AP2204K-ADJ","Package_TO_SOT_SMD:SOT-23-5","150mA low dropout adjustable linear regulator, wide input voltage range, SOT-23-5 package",""
+"U2, ","1","STM32L011F4Px","STM32L011F4Px","Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm","ARM Cortex-M0+ MCU, 16KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 16 GPIO, TSSOP-20",""
+"U3, ","1","FT231XQ","FT231XQ","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm","Full Speed USB to Full Handshake UART, QFN-20",""

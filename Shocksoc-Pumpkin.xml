@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/david/Desktop/Pumpkin-main/Shocksoc-Pumpkin.kicad_sch</source>
-    <date>Wed 21 Sep 2022 12:20:54 BST</date>
+    <source>/home/david/Desktop/Pumpkin/Shocksoc-Pumpkin.kicad_sch</source>
+    <date>Sun 09 Oct 2022 21:15:21 BST</date>
     <tool>Eeschema (6.0.7)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -283,7 +283,7 @@
     </comp>
     <comp ref="D1">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_3" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -293,7 +293,7 @@
     </comp>
     <comp ref="D2">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_2" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -303,7 +303,7 @@
     </comp>
     <comp ref="D3">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_1" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -313,7 +313,7 @@
     </comp>
     <comp ref="D4">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_4" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -323,7 +323,7 @@
     </comp>
     <comp ref="D5">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_5" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -333,7 +333,7 @@
     </comp>
     <comp ref="D6">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_6" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -343,7 +343,7 @@
     </comp>
     <comp ref="D7">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="pumpkin syms" part="WS2813B" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -353,7 +353,7 @@
     </comp>
     <comp ref="D8">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_11" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -363,7 +363,7 @@
     </comp>
     <comp ref="D9">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_10" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -373,7 +373,7 @@
     </comp>
     <comp ref="D10">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_9" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -383,7 +383,7 @@
     </comp>
     <comp ref="D11">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_7" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -393,7 +393,7 @@
     </comp>
     <comp ref="D12">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_8" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -403,7 +403,7 @@
     </comp>
     <comp ref="D13">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_7" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -413,7 +413,7 @@
     </comp>
     <comp ref="D14">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_8" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -423,7 +423,7 @@
     </comp>
     <comp ref="D15">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_7" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -433,7 +433,7 @@
     </comp>
     <comp ref="D16">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_8" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -443,7 +443,7 @@
     </comp>
     <comp ref="D17">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_7" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -453,7 +453,7 @@
     </comp>
     <comp ref="D18">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_8" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -463,7 +463,7 @@
     </comp>
     <comp ref="D19">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_7" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -473,7 +473,7 @@
     </comp>
     <comp ref="D20">
       <value>WS2813B</value>
-      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <footprint>Library:LED_WS2813_hand</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/WS2813B_Ver.V5_10-20-19.pdf</datasheet>
       <libsource lib="" part="WS2813B_8" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value="neopixel string"/>
@@ -1025,7 +1025,7 @@
       <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
     </library>
     <library logical="pumpkin syms">
-      <uri>/home/david/Desktop/Pumpkin-main/pumpkin syms.kicad_sym</uri>
+      <uri>/home/david/Desktop/Pumpkin/pumpkin syms.kicad_sym</uri>
     </library>
   </libraries>
   <nets>

@@ -2164,7 +2164,7 @@
       (reference "J3") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/ccedae1c-9ef7-4da3-b4ba-a48bc66c12cd/7380e242-021c-4fff-b9be-46e59abfa4b2"
-      (reference "J4") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
+      (reference "J4") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
     )
     (path "/ccedae1c-9ef7-4da3-b4ba-a48bc66c12cd/6c6a9e1c-dfa9-4cd8-9b14-066b7e096152"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
