@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "pumpkin syms")(type "KiCad")(uri "${KIPRJMOD}/pumpkin syms.kicad_sym")(options "")(descr ""))
+)
