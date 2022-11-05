@@ -2040,9 +2040,6 @@
     (path "/ccedae1c-9ef7-4da3-b4ba-a48bc66c12cd/836940ac-ad30-4908-b15f-40d029e0e496"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
     )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/11f51d41-a646-4ed7-b9b0-62fb67c361e6"
-      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
-    )
     (path "/8e2e9b7c-614c-442d-87a7-3f7d03969264"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -2123,36 +2120,6 @@
     )
     (path "/f3763063-bd34-46be-9921-509e65c6956a/ccb7bc15-333f-4737-aff9-e00ef471c0ca"
       (reference "D10") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/ac91a2b9-a5d7-43d8-8a30-87079d9cf33d"
-      (reference "D11") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/015008e1-a9b0-45f8-bd4b-841cb628e287"
-      (reference "D12") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/d90f664e-a66b-43d1-82c4-4faeea78a89a"
-      (reference "D13") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/3e6fcc37-0c13-4338-a242-562a70a686a2"
-      (reference "D14") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/1270141c-cc07-48e7-9614-30d0546ac18e"
-      (reference "D15") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/ad6cfe8d-2582-4d38-8050-0fdf556fff1a"
-      (reference "D16") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/597143b2-bc16-4dda-9259-ebe467298e79"
-      (reference "D17") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/378fdcd6-777a-4fb2-a49a-115d3316c68c"
-      (reference "D18") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/d7b37d49-12cb-4e5f-abb2-8ef21f0ee903"
-      (reference "D19") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
-    )
-    (path "/f3763063-bd34-46be-9921-509e65c6956a/33931b7c-96c2-42e1-9c9e-0708a15a752d"
-      (reference "D20") (unit 1) (value "WS2813B") (footprint "Library:LED_WS2813_hand")
     )
     (path "/b0fc7810-00d7-44d0-8cd3-035c362fcb52"
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex-105133-0001")
